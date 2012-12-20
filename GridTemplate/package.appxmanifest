@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="717c608f-ff7b-4d92-a247-73daf1a4a5cf" Version="1.0.0.0" Publisher="CN=mabeeby" />
+  <Identity Name="63202AsheA.AwesomeWallpapers2" Version="1.0.0.0" Publisher="CN=BEB062ED-1927-4FA5-820E-906239811601" />
   <Properties>
-    <DisplayName>Just Awesome Wallpapers - 2</DisplayName>
-    <PublisherDisplayName>Just Awesome Wallpapers - 2</PublisherDisplayName>
+    <DisplayName>Awesome Wallpapers 2</DisplayName>
+    <PublisherDisplayName>AsheA</PublisherDisplayName>
     <Logo>images\tile_50x50.png</Logo>
   </Properties>
   <Prerequisites>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="Just Awesome Wallpapers - 2" Logo="images\tile_150x150.png" SmallLogo="images\tile_30x30.png" Description="They're More Awesome!" ForegroundText="light" BackgroundColor="#81A44D">
+      <VisualElements DisplayName="Awesome Wallpapers 2" Logo="images\tile_150x150.png" SmallLogo="images\tile_30x30.png" Description="They're More Awesome!" ForegroundText="light" BackgroundColor="#81A44D">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\tile_620x300.png" BackgroundColor="#81A44D" />
       </VisualElements>
